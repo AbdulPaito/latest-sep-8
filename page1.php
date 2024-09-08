@@ -275,7 +275,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <body>
     <div class="page">
     <div class="header-container">
-        <img src="TESDA-Logo.jpg" alt="Left Logo">
+        <img src="Logo-TESDA.jpg" alt="Left Logo">
     <div><h1>Technical Education and Skills Development Authority</h1>
         <h1>Pangasiwaan sa Edukasyong Teknikal at Pagpapaunlad ng Kasanayan</h1>
         <h1>Registration Form - Page 1/4</h1></div>
